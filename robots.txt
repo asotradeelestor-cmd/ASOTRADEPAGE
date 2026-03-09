@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asotradeelestor-cmd.github.io/ASOTRADEPAGE/sitemap.xml
