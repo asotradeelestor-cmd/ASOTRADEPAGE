@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://asotradeelestor-cmd.github.io/ASOTRADEPAGE/</loc>
-    <lastmod>2026-03-09T13:05:48-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
+   <url>
+      <loc>https://asotradeelestor-cmd.github.io/ASOTRADEPAGE/</loc>
+      <lastmod>2026-03-09</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://asotradeelestor-cmd.github.io/ASOTRADEPAGE/#quienes-somos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://asotradeelestor-cmd.github.io/ASOTRADEPAGE/#objetivos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://asotradeelestor-cmd.github.io/ASOTRADEPAGE/#contacto</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
 </urlset>
